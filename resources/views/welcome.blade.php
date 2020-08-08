@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Septian Hadi
+                    Syalzhal Amandayani (253)
                 </div>
 
                 <div class="links">
